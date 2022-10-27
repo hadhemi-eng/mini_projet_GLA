@@ -1,5 +1,7 @@
 # mini_projet_GLA
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/mini_projet_GLA/main?labpath=index.ipynb)
+
 ## Présentation
 
 ceci est un prototype de projet en analyse de donnée
